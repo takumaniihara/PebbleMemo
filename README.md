@@ -176,7 +176,10 @@ gadgetbridge wiki
 [https://github.com/Freeyourgadget/Gadgetbridge/wiki/Pebble-Watchfaces](https://github.com/Freeyourgadget/Gadgetbridge/wiki/Pebble-Watchfaces)
 
 #### ウォッチフェイスやアプリの設定
-疑問：設定画面のサーバーってやっぱりPebble社が管理してるのですかね？
+疑問：設定画面のサーバーってやっぱりPebble社が管理してるのですかね？→G+コミュの方に答えていただきました．ありがとうございます．
+> Kenji Irie (にく)
+> アプリやウォッチフェースの(スマホ上での)設定画面は各提供元が持っているはずです。
+> 自作のウォッチフェースの場合はgithub pagesでホストしたりしてました。
 
 gadgetbridgeのホーム画面から自分のPebbleをタップすることにより，アプリ管理画面が開く．
 
