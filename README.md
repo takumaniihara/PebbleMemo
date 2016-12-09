@@ -147,6 +147,7 @@ gadgetbridgeのwikiに英語で書いてある．
 1. AndroidのBluetooth設定でPebbleとペアリングを行う．ただしLEのついてない方で．
 2. GadgetBridgeを起動して，自分のPebbleをタップする．
 3. 初期化されたと表示される
+4. Pebbleのファームウェアを書き込む
 
 gadgetbridgeとつなぐ前に先にPebbleをファクトリーリセットしたほうがいいかもしれない．
 
